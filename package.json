@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "snowflake-sdk": "^1.6.6"
+  }
+}
